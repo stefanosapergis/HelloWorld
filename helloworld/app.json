@@ -9,13 +9,13 @@
       "android",
       "web"
     ],
-    "version": "1.0.1",
-    "orientation": "portrait",
+    "version": "2.0.0",
+    "orientation": "landscape",
     "icon": "./assets/icon.png",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#000"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
